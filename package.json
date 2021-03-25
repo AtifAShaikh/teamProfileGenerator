@@ -1,0 +1,23 @@
+{
+  "name": "teamprofilegenerator",
+  "version": "1.0.0",
+  "description": "## Your Task",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AtifAShaikh/teamProfileGenerator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AtifAShaikh/teamProfileGenerator/issues"
+  },
+  "homepage": "https://github.com/AtifAShaikh/teamProfileGenerator#readme",
+  "dependencies": {
+    "inquirer": "^8.0.0",
+    "jest": "^26.6.3"
+  }
+}
